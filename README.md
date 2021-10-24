@@ -1,4 +1,4 @@
-This Directory Has Below Content
+This Directory Has Below Content:
 
 Certificates:
 Shows all my certifications related to data science.
@@ -7,7 +7,7 @@ PythonPerception:
 Shows my understanding of python and my practice files on programming.
 
 Machine_Learning:
-Shows my understaning on machine learning concepts and files in which i have used different models for a problem solution.
+Shows my understanding on machine learning concepts and files in which i have used different models for a problem solution.
 
 ML_Deployment:
 Shows files where i have deployed my created model in Heroku, AWS etc.
